@@ -75,10 +75,18 @@
 <rect x="341.2" y="238.9" width="45.0" height="51.0" fill="#65A9D1" opacity="0.85" rx="2"/>
 <rect x="347.2" y="212.5" width="33.0" height="18.0" fill="#7FD4E8" stroke="#4BA8C4" stroke-width="0.8" rx="2"/>
 <text x="363.7" y="268.4" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">18</text>
-<path d="M75.7 384.5 L101.7 70.0 L327.7 111.4 L327.7 533.6 L70.0 577.5 L251.9 486.4 L285.7 489.6 L291.4 395.5 L82.0 387.4 Z" fill="#DFF0D8" stroke="#7FA86A" stroke-width="1.5" stroke-dasharray="7 4"/>
-<text x="231.7" y="287.8" font-size="13" fill="#4A7A3A" font-weight="bold" text-anchor="middle">BENDRA ZONA</text>
-<text x="231.7" y="302.8" font-size="11" fill="#4A7A3A" text-anchor="middle">baseinas · sporto aikštelė</text>
-<text x="231.7" y="316.8" font-size="11" fill="#4A7A3A" text-anchor="middle">registratūra · automobiliai</text>
+<rect x="305.2" y="349.7" width="51.0" height="96.0" fill="none" stroke="#65A9D1" stroke-width="1.2" stroke-dasharray="4 3"/>
+<rect x="308.2" y="355.7" width="45.0" height="51.0" fill="#65A9D1" opacity="0.85" rx="2"/>
+<rect x="314.2" y="415.1" width="33.0" height="18.0" fill="#7FD4E8" stroke="#4BA8C4" stroke-width="0.8" rx="2"/>
+<text x="330.7" y="385.2" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">19</text>
+<rect x="287.2" y="199.7" width="51.0" height="96.0" fill="none" stroke="#65A9D1" stroke-width="1.2" stroke-dasharray="4 3"/>
+<rect x="290.2" y="238.7" width="45.0" height="51.0" fill="#65A9D1" opacity="0.85" rx="2"/>
+<rect x="296.2" y="212.3" width="33.0" height="18.0" fill="#7FD4E8" stroke="#4BA8C4" stroke-width="0.8" rx="2"/>
+<text x="312.7" y="268.2" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">20</text>
+<path d="M75.7 384.5 L101.7 70.0 L276.7 102.0 L276.7 542.3 L70.0 577.5 L251.9 486.4 L276.7 488.7 L276.7 395.0 L82.0 387.4 Z" fill="#DFF0D8" stroke="#7FA86A" stroke-width="1.5" stroke-dasharray="7 4"/>
+<text x="180.7" y="287.8" font-size="13" fill="#4A7A3A" font-weight="bold" text-anchor="middle">BENDRA ZONA</text>
+<text x="180.7" y="302.8" font-size="11" fill="#4A7A3A" text-anchor="middle">baseinas · sporto aikštelė</text>
+<text x="180.7" y="316.8" font-size="11" fill="#4A7A3A" text-anchor="middle">registratūra · automobiliai</text>
 <path d="M82.3 387.5 L291.1 395.3 L285.7 489.5 L252.1 486.5 Z" fill="#F5D9D9" stroke="#C0504D" stroke-width="1.5" stroke-dasharray="6 4"/>
 <text x="183.7" y="438.5" font-size="11" fill="#C0504D" text-anchor="middle" font-weight="bold">SVETIMAS SKLYPAS</text>
 <text x="183.7" y="451.5" font-size="10" fill="#C0504D" text-anchor="middle">Lot 9255-B, 246 m²</text>
@@ -101,5 +109,5 @@
 <text x="580" y="661.5334618637296" font-size="12" fill="#333">baseinas</text>
 <rect x="680" y="649.5334618637296" width="14" height="14" fill="#E8E2D5" rx="2"/>
 <text x="700" y="661.5334618637296" font-size="12" fill="#333">kelias 6 m</text>
-<text x="842" y="683" font-size="11" fill="#777" text-anchor="end">18 vienetų · riba iš matininko azimutų · tools/siargao_planas.py</text>
+<text x="842" y="683" font-size="11" fill="#777" text-anchor="end">20 vienetų · riba iš matininko azimutų · tools/siargao_planas.py</text>
 </svg>
