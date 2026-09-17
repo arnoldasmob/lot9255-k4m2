@@ -227,6 +227,34 @@ skirtingais kampais ir panaikina kareivinių įspūdį, kurį duoda tiesi eilė.
 **Tai geriausias rezultatas iš visų variantų.** Kvadratinis blokas efektyvesnis už eilę,
 nes bendros sienos eina į dvi puses, ne į vieną, ir kiemai nekonkuruoja dėl gylio.
 
+### A variantas: du vienetų tipai
+
+Vietoj vieno tipo eilėje kaitaliojami **du**, kas trečias yra I tipas. Tai duoda ir gatvės
+ritmą, ir du kainų lygius.
+
+| | **L tipas** | **I tipas** |
+|---|---|---|
+| Plotas | 84 m² | 72 m² |
+| Forma | kiemas viduryje, korpusai iš priekio ir galo | vienas linijinis korpusas prie šoninės sienos |
+| Miegamieji | 2 | 1 |
+| Baseinas | 6,4 m palei šoninę sieną | **11,5 m per visą ilgį** |
+| Kiekis | 13 | 6 |
+| Savikaina | 129 779 € | 112 979 € |
+| **Kaina** | **180 249 €** | **156 916 €** |
+
+**I tipe baseinas prasideda po stogu.** Linijinis korpusas stovi prie vienos sklypelio
+sienos, o 11,5 m baseinas eina greta per visą ilgį, ir jo galas įlenda po gilia stogo
+iškyša. Iš svetainės žengiama tiesiai į vandenį, o plaukiant matosi visas sklypelio
+gylis. Siaurame 8 m sklypelyje tai stipresnis vaizdas nei kiemas.
+
+**Ekonomika:** mišrus variantas duoda **722 641 €** prieš 753 441 € vien su L tipu.
+Skirtumas 30 800 €, ir tai yra kaina už antrą produktą su **23 000 € žemesne įėjimo
+riba**. Prie 156 916 € pirkėjų ratas platesnis nei prie 180 249 €.
+
+**Ką kuris tipas tinka:** L tipas yra šeimos produktas su dviem miegamaisiais ir uždaru
+kiemu. I tipas yra poros arba nuomos produktas: vienas miegamasis, bet įspūdingas
+baseinas. Tai ne kompromisas, o du skirtingi pirkėjai.
+
 ### A vieneto sandara
 
 Sklypelis 8 × 17 m, pastatyta 84 m², kiemas 40 m².
