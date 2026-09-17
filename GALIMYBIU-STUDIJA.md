@@ -152,22 +152,28 @@ Vilos yra blogiausias būdas nuomą atskiesti, nes jų mažai viename hektare.
 Savikaina 1 400 €/m² turnkey. Įskaičiuota nuomos dalis statybos metu (24 mėn.).
 Pardavus, žemės nuomą perima pirkėjas, ir tai turi būti sutartyje bei skelbime.
 
-| | **A. 20 sujungtų po 70 m²** | B. 8 atskiros po 120 m² |
+| | **A. 17 sujungtų po 85 m²** | B. 6 atskiros po 120 m² |
 |---|---|---|
-| Savikaina vienetui | 109 570 € | 196 926 € |
-| CAPEX viso | 2 191 400 € | 1 575 408 € |
-| Kaina vienetui | 152 181 € | 273 508 € |
-| Pardavimų pajamos | 3 043 622 € | 2 188 067 € |
-| **Pelnas** | **669 597 €** | **481 375 €** |
-| Marža nuo pajamų | 22 % | 22 % |
-| Pirkėjo žemės nuoma | **482 €/mėn** | 1 205 €/mėn |
+| Savikaina vienetui | 132 612 € | 206 568 € |
+| CAPEX viso | 2 254 404 € | 1 239 408 € |
+| Kaina vienetui | 184 184 € | 286 900 € |
+| Pardavimų pajamos | 3 131 122 € | 1 721 400 € |
+| **Pelnas** | **688 847 €** | **378 708 €** |
+| Pirkėjo žemės nuoma | **567 €/mėn** | **1 607 €/mėn** |
 
-⚠ **Vienetų skaičius patikrintas išplanavimu, ne įvertintas.** Sudėjus vienetus ant
-tikros sklypo ribos su 3 m atitraukimais ir 6 m keliu: **sujungtų telpa 23** (rodomi 20,
-likęs vakarinis galas atitenka bendrai zonai), **atskirų po 120 m² telpa tik 8**. Rytinė
-sklypo dalis yra 41 m gylio ir giliems sklypeliams netinka.
+**A variantas: vidinis kiemas.** Kiekvienas 85 m² vienetas turi 2 miegamuosius, svetainę
+su virtuve ir **uždarą vidinį kiemą su baseinu**. Kiemas iš šonų uždarytas bendromis
+sienomis su kaimynais, iš priekio miegamųjų korpusu, iš galo svetaine. **Kaimynas kaimyno
+nemato.** Baseinas įeina po svetainės stogu, tai yra pagrindinė pardavimo detalė:
+iš svetainės žengiama tiesiai į vandenį.
 
-Išplanavimai: `output/siargao-planas-sujungtos.svg` ir `output/siargao-planas-atskiros.svg`
+**B variantas: išbarstytos vilos.** Vilos pasuktos skirtingais kampais, ne eilėmis,
+kiekviena L formos aplink savo kiemą su baseinu. Baseinas nematomas nei nuo kelio,
+nei iš kaimynų.
+
+⚠ **Bet B kaina yra didelė.** Pasukimai ir privatumo atstumai reiškia, kad vietoj 8 vilų
+telpa tik **6**. Žemės nuoma vienam pirkėjui šoka iki **1 607 €/mėn**, tai yra tris kartus
+daugiau nei A variante. Prie tokio mokesčio vila darosi sunkiai parduodama.
 
 ### Konkurencingumas
 
@@ -202,26 +208,43 @@ Laikom ir valdom patys. Savikaina ta pati, 1 400 €/m² turnkey, plius 38 % ben
 nuo kambarių ploto. Maisto ir gėrimų pajamos 30 % nuo kambarių pajamų. Veiklos kaštai
 60 % nuo bendrų pajamų.
 
-Koncepcija: **Sport & Wellness butikinis viešbutis, 30 kambarių**. Du dviejų aukštų
-kambarių blokai, SPA su sauna ir sporto sale, padelio aikštelė, 22 m baseinas.
-GFA 1 573 m², užstatymas 11 % sklypo.
+Koncepcija: **Sport & Wellness butikinis viešbutis, 30 kambarių.**
 
-Sporto ir wellness pozicionavimas leidžia laikyti aukštesnę kainą už parą nei įprastam
-tokio dydžio viešbučiui, todėl pateikiami trys lygiai:
+**Kambarių mišinys**, kad kaina apimtų platesnį rinkos ruožą:
 
-| Kaina už parą | CAPEX | Pajamos | Pelnas po mokesčių | Atsipirkimas | Grąža |
-|---|---|---|---|---|---|
-| 120 € | 2 202 480 € | 1 024 920 € | 189 950 € | 11,6 m. | 8,6 % |
-| **140 €** | 2 202 480 € | 1 195 740 € | **236 072 €** | **9,3 m.** | **10,7 %** |
-| 160 € | 2 202 480 € | 1 366 560 € | 282 193 € | 7,8 m. | 12,8 % |
+| Tipas | Kiekis | Plotas | Kaina už parą |
+|---|---|---|---|
+| Suites | 6 | 48 m² | 200 € |
+| Standard | 12 | 32 m² | 140 € |
+| Studio | 12 | 25 m² | 95 € |
+| **Viso** | **30** | **972 m²** | **vidutiniškai 134 €** |
 
-**Čia ir yra Sport & Wellness koncepcijos esmė.** Prie 120 €/para viešbutis duoda 8,6 %
-ir yra prastesnis už vilas. Prie 140 €/para jis duoda 10,7 % ir tampa lygiavertis.
-Visas skirtumas yra tai, ar sugebam pateisinti aukštesnę kainą už parą.
+**Sporto ir wellness programa:**
 
-Užstatymas 11 % sklypo, tai fiziškai telpa laisvai. Klausimas yra leidimas, ne vieta.
+- **HYROX ir crossfit box** po atviru stogu, plius dviračių treniruokliai
+- **Recovery zona:** jacuzzi, cold plunge ir mažas baras užkandžiams bei gėrimams
+- **25 m baseinas**
+- **Bėgimo takelis 408 m aplink teritoriją.** Tai 2,5 rato kilometrui, 12 ratų penkiems
+  kilometrams. Takelis eina 4 m nuo ribos ir aplenkia siaurą pietvakarių iškyšulį
+- **Priimamasis su restoranu** prie įvažiavimo
 
-### Jautrumas užimtumui (30 kambarių, 140 €/para)
+| | Reikšmė |
+|---|---|
+| Kambarių plotas | 972 m² |
+| GFA su bendromis erdvėmis | 1 341 m² |
+| Užstatymas | 11 % sklypo (du aukštai) |
+| **CAPEX** | **1 877 904 €** |
+| Bendros pajamos (60 % užimtumas) | 1 144 494 € |
+| **Pelnas po mokesčių** | **222 235 €** |
+| **Atsipirkimas** | **8,5 metų** |
+| **Grąža nuo kapitalo** | **11,8 %** |
+
+**Mišrūs kambarių dydžiai pagerino ekonomiką.** Vienodų 35 kambarių versija davė 8,6 %
+ir 11,6 metų. Mišri versija duoda 11,8 % ir 8,5 metų, nes maži studio kambariai kainuoja
+mažiau, o užimtumą laiko aukštą. Sporto ir wellness programa pateisina aukštesnę kainą
+už parą, o be jos tai būtų tiesiog dar vienas viešbutis saloje.
+
+### Jautrumas užimtumui (30 kambarių, vidutiniškai 134 €/para)
 
 | Užimtumas | Pelnas | Atsipirkimas |
 |---|---|---|
@@ -239,21 +262,27 @@ istorijos realiai yra 40 iki 50 %.
 
 ## 7. Palyginimas
 
-| | Viešbutis 35 kamb. | Vilos 18 × 70 m² |
+| | A. Vilos 17 × 85 m² | C. Viešbutis 30 kamb. |
 |---|---|---|
-| Bendras CAPEX | 2 434 320 € | 1 995 408 € |
-| Grąža per metus | 209 168 € | — |
-| Vienkartinis pelnas | — | 610 272 € |
-| Kapitalas grįžta | per 11,6 metų | **per 2 iki 4 metų** |
-| Kas neša žemės nuomą | **mes, 48 metus** | pirkėjai |
-| Kas lieka po 50 metų | nieko | nieko, bet pinigai atgauti |
-| Pagrindinė rizika | užimtumas ir valdymas | ar parduosim |
-| Reikia kompetencijos | viešbučio operatorius | NT pardavimai |
+| CAPEX | 2 254 404 € | 1 877 904 € |
+| Vienkartinis pelnas | **688 847 €** | — |
+| Grąža per metus | — | 222 235 € |
+| Grąža nuo kapitalo | — | **11,8 %** |
+| Kapitalas grįžta | **per 2 iki 4 metų** | per 8,5 metų |
+| Kas neša žemės nuomą | pirkėjai (567 €/mėn) | **mes, 48 metus** |
+| Pagrindinė rizika | ar parduosim | užimtumas ir valdymas |
 
-Viešbučio 8,6 % grąža už besivystančios rinkos, taifūnų zonos, svetimos žemės ir 50 metų
-užrakinto kapitalo riziką yra maža. Vilos duoda apie 10 % per metus ir grąžina kapitalą.
+Po pakeitimų abu variantai tapo stipresni, bet skirtingai. **A pelnas išaugo** nuo
+669 597 € iki 688 847 €, nors vienetų sumažėjo: didesni 85 m² vienetai su vidiniu kiemu
+parduodami brangiau nei maži 70 m². **C grąža pakilo** nuo 8,6 % iki 11,8 % dėl mišrių
+kambarių ir sporto programos.
 
-**Rekomenduojame vilas, 18 vienetų po 70 m², statomas etapais.**
+**B variantas po pakeitimų susilpnėjo:** išbarstymas kainuoja du vienetus, o žemės nuoma
+vienam pirkėjui pakyla iki 1 607 €/mėn.
+
+**Rekomenduojame A variantą, 17 vienetų po 85 m² su vidiniu kiemu, statomus etapais.**
+C variantas yra rimta alternatyva tiems, kas nori pajamų srauto, o ne vienkartinio
+pelno, ir kas pasiruošęs valdyti viešbutį.
 
 ---
 
