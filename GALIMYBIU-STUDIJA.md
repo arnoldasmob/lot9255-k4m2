@@ -152,21 +152,20 @@ Vilos yra blogiausias būdas nuomą atskiesti, nes jų mažai viename hektare.
 Savikaina 1 400 €/m² turnkey. Įskaičiuota nuomos dalis statybos metu (24 mėn.).
 Pardavus, žemės nuomą perima pirkėjas, ir tai turi būti sutartyje bei skelbime.
 
-| | **18 × 70 m² sujungtos** | 8 × 105 m² atskiros |
+| | **A. 20 sujungtų po 70 m²** | B. 8 atskiros po 120 m² |
 |---|---|---|
-| Savikaina vienetui | 110 856 € | 175 926 € |
-| CAPEX viso | 1 995 408 € | 1 407 408 € |
-| Kaina vienetui | 154 000 € | 244 000 € |
-| Pardavimų pajamos | 2 772 000 € | 1 954 736 € |
-| **Pelnas** | **609 708 €** | **430 041 €** |
+| Savikaina vienetui | 109 570 € | 196 926 € |
+| CAPEX viso | 2 191 400 € | 1 575 408 € |
+| Kaina vienetui | 152 181 € | 273 508 € |
+| Pardavimų pajamos | 3 043 622 € | 2 188 067 € |
+| **Pelnas** | **669 597 €** | **481 375 €** |
 | Marža nuo pajamų | 22 % | 22 % |
-| Pirkėjo žemės nuoma | **536 €/mėn** | 1 205 €/mėn |
+| Pirkėjo žemės nuoma | **482 €/mėn** | 1 205 €/mėn |
 
 ⚠ **Vienetų skaičius patikrintas išplanavimu, ne įvertintas.** Sudėjus vienetus ant
-tikros sklypo ribos su 3 m atitraukimais ir 6 m keliu paaiškėjo, kad **atskirų 105 m²
-vilų telpa tik 8**, ne 11, kaip rodė pirminis skaičiavimas pagal plotą. Rytinė sklypo
-dalis yra 41 m gylio ir giliems sklypeliams netinka. Sujungtų vilų telpa 23, todėl
-18 yra patogus skaičius su atsarga bendrai zonai.
+tikros sklypo ribos su 3 m atitraukimais ir 6 m keliu: **sujungtų telpa 23** (rodomi 20,
+likęs vakarinis galas atitenka bendrai zonai), **atskirų po 120 m² telpa tik 8**. Rytinė
+sklypo dalis yra 41 m gylio ir giliems sklypeliams netinka.
 
 Išplanavimai: `output/siargao-planas-sujungtos.svg` ir `output/siargao-planas-atskiros.svg`
 
@@ -203,21 +202,26 @@ Laikom ir valdom patys. Savikaina ta pati, 1 400 €/m² turnkey, plius 38 % ben
 nuo kambarių ploto. Maisto ir gėrimų pajamos 30 % nuo kambarių pajamų. Veiklos kaštai
 60 % nuo bendrų pajamų.
 
-| | 24 kamb. | 30 kamb. | **35 kamb.** | 40 kamb. |
-|---|---|---|---|---|
-| Kaina už parą | 140 € | 120 € | 110 € | 105 € |
-| CAPEX | 1 854 720 € | 2 202 480 € | **2 434 320 €** | 2 627 520 € |
-| Bendros pajamos | 956 592 € | 1 024 920 € | 1 096 095 € | 1 195 740 € |
-| GOP (40 %) | 382 637 € | 409 968 € | 438 438 € | 478 296 € |
-| Minus žemės nuoma | −115 704 € | −115 704 € | −115 704 € | −115 704 € |
-| **Pelnas po mokesčių** | 171 502 € | 189 950 € | **209 168 €** | 236 072 € |
-| Atsipirkimas | 10,8 m. | 11,6 m. | **11,6 m.** | 11,1 m. |
-| Grąža nuo kapitalo | 9,2 % | 8,6 % | **8,6 %** | 9,0 % |
+Koncepcija: **Sport & Wellness butikinis viešbutis, 30 kambarių**. Du dviejų aukštų
+kambarių blokai, SPA su sauna ir sporto sale, padelio aikštelė, 22 m baseinas.
+GFA 1 573 m², užstatymas 11 % sklypo.
 
-Užstatymas net prie 40 kambarių yra tik 13 % sklypo (dviejų aukštų), tai fiziškai telpa
-laisvai. Klausimas yra leidimas, ne vieta.
+Sporto ir wellness pozicionavimas leidžia laikyti aukštesnę kainą už parą nei įprastam
+tokio dydžio viešbučiui, todėl pateikiami trys lygiai:
 
-### Jautrumas užimtumui (35 kambariai)
+| Kaina už parą | CAPEX | Pajamos | Pelnas po mokesčių | Atsipirkimas | Grąža |
+|---|---|---|---|---|---|
+| 120 € | 2 202 480 € | 1 024 920 € | 189 950 € | 11,6 m. | 8,6 % |
+| **140 €** | 2 202 480 € | 1 195 740 € | **236 072 €** | **9,3 m.** | **10,7 %** |
+| 160 € | 2 202 480 € | 1 366 560 € | 282 193 € | 7,8 m. | 12,8 % |
+
+**Čia ir yra Sport & Wellness koncepcijos esmė.** Prie 120 €/para viešbutis duoda 8,6 %
+ir yra prastesnis už vilas. Prie 140 €/para jis duoda 10,7 % ir tampa lygiavertis.
+Visas skirtumas yra tai, ar sugebam pateisinti aukštesnę kainą už parą.
+
+Užstatymas 11 % sklypo, tai fiziškai telpa laisvai. Klausimas yra leidimas, ne vieta.
+
+### Jautrumas užimtumui (30 kambarių, 140 €/para)
 
 | Užimtumas | Pelnas | Atsipirkimas |
 |---|---|---|
