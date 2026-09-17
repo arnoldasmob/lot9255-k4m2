@@ -152,28 +152,65 @@ Vilos yra blogiausias būdas nuomą atskiesti, nes jų mažai viename hektare.
 Savikaina 1 400 €/m² turnkey. Įskaičiuota nuomos dalis statybos metu (24 mėn.).
 Pardavus, žemės nuomą perima pirkėjas, ir tai turi būti sutartyje bei skelbime.
 
-| | **A. 17 sujungtų po 85 m²** | B. 6 atskiros po 120 m² |
+| | **A. 19 sujungtų po 84 m²** | B. 9 atskiros, mišrios |
 |---|---|---|
-| Savikaina vienetui | 132 612 € | 206 568 € |
-| CAPEX viso | 2 254 404 € | 1 239 408 € |
-| Kaina vienetui | 184 184 € | 286 900 € |
-| Pardavimų pajamos | 3 131 122 € | 1 721 400 € |
-| **Pelnas** | **688 847 €** | **378 708 €** |
-| Pirkėjo žemės nuoma | **567 €/mėn** | **1 607 €/mėn** |
+| Sudėtis | 19 × 84 m² | 5 × 110 m² ir 4 × 100 m² |
+| Savikaina vienetui | 129 779 € | 154 000 iki 168 000 € |
+| Kaina vienetui | 180 249 € | 214 000 iki 233 000 € |
+| Pardavimų pajamos | 3 424 733 € | 2 168 622 € |
+| **Pelnas** | **753 441 €** | **477 097 €** |
+| Pirkėjo žemės nuoma | **507 €/mėn** | 1 071 €/mėn |
 
-**A variantas: vidinis kiemas.** Kiekvienas 85 m² vienetas turi 2 miegamuosius, svetainę
-su virtuve ir **uždarą vidinį kiemą su baseinu**. Kiemas iš šonų uždarytas bendromis
-sienomis su kaimynais, iš priekio miegamųjų korpusu, iš galo svetaine. **Kaimynas kaimyno
-nemato.** Baseinas įeina po svetainės stogu, tai yra pagrindinė pardavimo detalė:
-iš svetainės žengiama tiesiai į vandenį.
+### Ką parodė tankumo ir dydžio bandymai
 
-**B variantas: išbarstytos vilos.** Vilos pasuktos skirtingais kampais, ne eilėmis,
-kiekviena L formos aplink savo kiemą su baseinu. Baseinas nematomas nei nuo kelio,
-nei iš kaimynų.
+Abiejų variantų vienetų skaičius gautas ne įvertinant, o **sudedant vienetus ant tikros
+sklypo ribos** ir skaičiuojant, kiek jų telpa su atitraukimais.
 
-⚠ **Bet B kaina yra didelė.** Pasukimai ir privatumo atstumai reiškia, kad vietoj 8 vilų
-telpa tik **6**. Žemės nuoma vienam pirkėjui šoka iki **1 607 €/mėn**, tai yra tris kartus
-daugiau nei A variante. Prie tokio mokesčio vila darosi sunkiai parduodama.
+**A: siauresnis sklypelis laimi, zigzagas pralaimi.**
+
+| Sklypelis | Vnt | Pelnas |
+|---|---|---|
+| 9,0 × 17 m | 17 | 688 847 € |
+| 8,5 × 17 m | 18 | 725 208 € |
+| **8,0 × 17 m** | **19** | **753 441 €** |
+| 8,0 × 17 m zigzagu gilyn | 16 | 652 486 € |
+| 8,0 × 19 m (didesnis kiemas) | 16 | 652 486 € |
+
+**Zigzagas kainuoja tris vienetus.** Gilinant kas antrą vienetą, rytinėje sklypo dalyje,
+kur gylis tik 41 m, jie nebetelpa. Tą patį vizualinį efektą galima gauti **pastumiant
+patį pastatą sklypelio viduje**, nekeičiant sklypelių eilės. Taip gatvės fasadas
+lūžinėja, o vienetų lieka 19.
+
+**B: mišrūs dydžiai kone padvigubino kiekį.**
+
+| Sudėtis | Vnt | Pelnas | Nuoma pirkėjui |
+|---|---|---|---|
+| Tik 120 m² | 5 | 327 375 € | 1 928 €/mėn |
+| 120 + 105 + 100 m² | 8 | 453 569 € | 1 205 €/mėn |
+| **110 + 100 m²** | **9** | **477 097 €** | **1 071 €/mėn** |
+
+Pasuktos vilos valgo daug vietos. Sumažinus vilą nuo 120 iki 110 ir 100 m², gabaritas
+krenta nuo 17 iki 15,5 ir 14 m, ir į tas pačias tarpuvietes telpa dar keturios vilos.
+Žemės nuoma vienam pirkėjui krenta beveik perpus.
+
+### A vieneto sandara
+
+Sklypelis 8 × 17 m, pastatyta 84 m², kiemas 40 m².
+
+| Nuo kelio | Gylis | Kas |
+|---|---|---|
+| 0 iki 1,5 m | 1,5 m | įėjimas |
+| 1,5 iki 8 m | 6,5 m | 2 miegamieji |
+| 8 iki 13 m | 5 m | **vidinis kiemas** |
+| 13 iki 17 m | 4 m | svetainė su virtuve |
+
+**Baseinas eina palei šoninę sieną**, ne per kiemo vidurį, ir įeina po svetainės stogu
+**šone, ne per vidurį patalpos**. Į vandenį žengiama iš svetainės krašto. Gretimuose
+vienetuose baseinas kaitaliojamas prie kairės ir dešinės sienos, todėl fasadas įgauna
+ritmą, o du baseinai niekada nesiglaudžia prie tos pačios sienos.
+
+**B vilos** gauna savo sporto zoną šiaurės vakarų kampe ir tą patį **408 m bėgimo takelį**
+aplink teritoriją.
 
 ### Konkurencingumas
 
@@ -222,11 +259,25 @@ Koncepcija: **Sport & Wellness butikinis viešbutis, 30 kambarių.**
 **Sporto ir wellness programa:**
 
 - **HYROX ir crossfit box** po atviru stogu, plius dviračių treniruokliai
+- **Surf-skate rampa ir bowl**: sausumos treniruotė banglentininkams
+- **Jogos ir pilateso denis**, atviras paviljonas
 - **Recovery zona:** jacuzzi, cold plunge ir mažas baras užkandžiams bei gėrimams
 - **25 m baseinas**
-- **Bėgimo takelis 408 m aplink teritoriją.** Tai 2,5 rato kilometrui, 12 ratų penkiems
-  kilometrams. Takelis eina 4 m nuo ribos ir aplenkia siaurą pietvakarių iškyšulį
+- **Bėgimo takelis 408 m aplink teritoriją.** 2,5 rato kilometrui, 12 ratų penkiems
 - **Priimamasis su restoranu** prie įvažiavimo
+
+### Teritorijos zonavimas
+
+Sklypas padalintas į keturias funkcines zonas. Suma sutampa su sklypo plotu, tai
+padalijimas pilnas, be likučio.
+
+| Zona | Plotas | Dalis | Kas telpa |
+|---|---|---|---|
+| Sportas ir wellness | 1 821 m² | 26 % | HYROX box, recovery, surf-skate, joga |
+| Baseinas ir poilsis | 2 138 m² | 30 % | 25 m baseinas, terasos, sodas |
+| Apgyvendinimas | 2 189 m² | 31 % | 30 kambarių trijuose blokuose |
+| Atvykimas | 894 m² | 13 % | priimamasis, restoranas, automobiliai |
+| **Iš viso** | **7 042 m²** | **100 %** | |
 
 | | Reikšmė |
 |---|---|
@@ -262,25 +313,25 @@ istorijos realiai yra 40 iki 50 %.
 
 ## 7. Palyginimas
 
-| | A. Vilos 17 × 85 m² | C. Viešbutis 30 kamb. |
+| | A. Vilos 19 × 84 m² | C. Viešbutis 30 kamb. |
 |---|---|---|
-| CAPEX | 2 254 404 € | 1 877 904 € |
-| Vienkartinis pelnas | **688 847 €** | — |
+| CAPEX | 2 465 820 € | 1 877 904 € |
+| Vienkartinis pelnas | **753 441 €** | — |
 | Grąža per metus | — | 222 235 € |
 | Grąža nuo kapitalo | — | **11,8 %** |
 | Kapitalas grįžta | **per 2 iki 4 metų** | per 8,5 metų |
-| Kas neša žemės nuomą | pirkėjai (567 €/mėn) | **mes, 48 metus** |
+| Kas neša žemės nuomą | pirkėjai (507 €/mėn) | **mes, 48 metus** |
 | Pagrindinė rizika | ar parduosim | užimtumas ir valdymas |
 
-Po pakeitimų abu variantai tapo stipresni, bet skirtingai. **A pelnas išaugo** nuo
-669 597 € iki 688 847 €, nors vienetų sumažėjo: didesni 85 m² vienetai su vidiniu kiemu
-parduodami brangiau nei maži 70 m². **C grąža pakilo** nuo 8,6 % iki 11,8 % dėl mišrių
+Po pakeitimų abu variantai tapo stipresni, bet skirtingai. **A pelnas išaugo** nuo 669 597 € iki **753 441 €**: siauresnis 8 m sklypelis leido
+sutalpinti 19 vienetų vietoj 17, o vidinis kiemas su baseiniu prie sienos yra stipresnis
+produktas nei baseinas prieš namą. **C grąža pakilo** nuo 8,6 % iki 11,8 % dėl mišrių
 kambarių ir sporto programos.
 
-**B variantas po pakeitimų susilpnėjo:** išbarstymas kainuoja du vienetus, o žemės nuoma
-vienam pirkėjui pakyla iki 1 607 €/mėn.
+**B variantas atsigavo** po mišrių dydžių: nuo 5 vilų ir 327 375 € iki **9 vilų ir
+477 097 €**, o žemės nuoma vienam pirkėjui krito nuo 1 928 iki 1 071 €/mėn.
 
-**Rekomenduojame A variantą, 17 vienetų po 85 m² su vidiniu kiemu, statomus etapais.**
+**Rekomenduojame A variantą, 19 vienetų po 84 m² su vidiniu kiemu, statomus etapais.**
 C variantas yra rimta alternatyva tiems, kas nori pajamų srauto, o ne vienkartinio
 pelno, ir kas pasiruošęs valdyti viešbutį.
 
