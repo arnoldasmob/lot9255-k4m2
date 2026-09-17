@@ -193,6 +193,40 @@ Pasuktos vilos valgo daug vietos. Sumažinus vilą nuo 120 iki 110 ir 100 m², g
 krenta nuo 17 iki 15,5 ir 14 m, ir į tas pačias tarpuvietes telpa dar keturios vilos.
 Žemės nuoma vienam pirkėjui krenta beveik perpus.
 
+### D variantas: kvadratiniai blokai po 4 vilas
+
+Keturios vilos sustatytos **vėjo malūnėlio principu**: bendros sienos susieina kvadrato
+viduryje kryžmu, o kiekvienos vilos kiemas atsiveria į **savo išorinį kampą**. Keturi
+kaimynai vienas kito kiemo nemato iš viso, nes tarp jų yra ne tvora, o pastatų masė.
+
+Blokas 20 × 20 m, ketvirtis 10 × 10 m. Vila **dviejų aukštų**: pėda apie 42 m², iš viso
+84 m², kiemas apie 58 m² su baseinu palei šoninę sieną.
+
+**Kelias vingiuotas**, ne tiesus. Tai ne tik estetika: vingis leidžia blokus statyti
+skirtingais kampais ir panaikina kareivinių įspūdį, kurį duoda tiesi eilė.
+
+| Bloko kraštinė | Vingis | Blokai | Vilos | Pelnas |
+|---|---|---|---|---|
+| 23 m | 7,5 m | 3 | 12 | 501 908 € |
+| 22 m | 7,5 m | 4 | 16 | 618 264 € |
+| **20 m** | **2,5 m** | **5** | **20** | **789 375 €** |
+| 21 m | 0 m (tiesus) | 3 | 12 | 450 575 € |
+
+**Per didelis blokas netelpa, per stiprus vingis irgi.** Optimumas yra 20 m blokas su
+švelniu 2,5 m vingiu: penki blokai, dvidešimt vilų.
+
+| | Reikšmė |
+|---|---|
+| Vienetų | **20** |
+| Savikaina vienetui | 129 170 € |
+| Kaina vienetui | 179 403 € |
+| Pardavimų pajamos | 3 588 060 € |
+| **Pelnas** | **789 375 €** |
+| Pirkėjo žemės nuoma | **482 €/mėn** |
+
+**Tai geriausias rezultatas iš visų variantų.** Kvadratinis blokas efektyvesnis už eilę,
+nes bendros sienos eina į dvi puses, ne į vieną, ir kiemai nekonkuruoja dėl gylio.
+
 ### A vieneto sandara
 
 Sklypelis 8 × 17 m, pastatyta 84 m², kiemas 40 m².
@@ -331,7 +365,9 @@ kambarių ir sporto programos.
 **B variantas atsigavo** po mišrių dydžių: nuo 5 vilų ir 327 375 € iki **9 vilų ir
 477 097 €**, o žemės nuoma vienam pirkėjui krito nuo 1 928 iki 1 071 €/mėn.
 
-**Rekomenduojame A variantą, 19 vienetų po 84 m² su vidiniu kiemu, statomus etapais.**
+**Rekomenduojame D variantą: penkis kvadratinius blokus po keturias vilas, iš viso
+20 vienetų po 84 m² dviem aukštais, prie vingiuoto kelio, statomus etapais.**
+A variantas (19 vienetų eilėmis) lieka kaip paprastesnė alternatyva, skirtumas 35 934 €.
 C variantas yra rimta alternatyva tiems, kas nori pajamų srauto, o ne vienkartinio
 pelno, ir kas pasiruošęs valdyti viešbutį.
 
